@@ -1,4 +1,4 @@
-# Hi there, I'm Esa Nirza Zakya Putri - aka [EsaNirzaZakyaPutri](https://www.instagram.com/esa_nirza?igsh=MWNtdHNrcTQ3dnhxeQ==) 👋
+# Hi there, I'm Esa Nirza  - aka [EsaNirza](https://www.instagram.com/esa_nirza?igsh=MWNtdHNrcTQ3dnhxeQ==) 👋
 ## About me:
 - 🔭 I’m a student of Universitas Bengkulu
 - 🌱 I’m currently learning Python and Javascript
@@ -23,7 +23,11 @@
    - Anggota Divisi Minat dan Bakat
 #### 2.PPPM AL HUDA BENGKULU | Bengkulu `2022-Now`
    - Ketua Divisi Media
----
+
+## Project Repository:
+#### 1. [Artikel Web](https://esanirzazakyaputri.github.io/web-artikel.github.io/) 
+#### 2. [Profile Web](https://esanirzazakyaputri.github.io/portofolio.github.io/) 
+#### 3. [E-Commers](https://esanirzazakyaputri.github.io/EsaNirzaZakyaPutri_Tugas-Respistory.github.io/) 
 
 ### Languages and Tools:
 
